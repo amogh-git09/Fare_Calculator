@@ -1,6 +1,4 @@
-Fare Calculator App
-
-App for calculating taxi fare between two addresses using Google Places and Distance Matrix APIs. 
+Fare Calculator App - App for calculating taxi fare between two addresses using Google Places and Distance Matrix APIs. 
 
 Addresses are input using Google Places AutoComplete API. An Http request is sent to Google Servers that returns predictions for places in JSON format. App parses the JSON results and displays the predictions in ListView as AutoComplete suggestions. 
 
