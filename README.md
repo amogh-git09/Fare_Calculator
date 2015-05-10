@@ -7,4 +7,6 @@ Distance and Time Duration between the two addresses is determined using Google 
 Fare is then calculated using the following formula
                   Fare = (distance_constant * distance) + (time_constant * timeDuration)
           where distance_constant and time_constant are constants.
+          
+APK is in bin folder. 
 
